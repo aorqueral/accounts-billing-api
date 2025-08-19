@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.db
+.idea/
+.vscode/
+dist/
+build/
+.coverage
+htmlcov/
