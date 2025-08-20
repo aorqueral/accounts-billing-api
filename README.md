@@ -50,3 +50,11 @@ accounts_billing_api/
 - [ ] JWT + roles
 - [ ] Tests de integración
 - [ ] CI/CD con GitHub Actions
+
+## 📌 Actualización Semana 1 - Día 1
+- Configuración base con Django + DRF + Docker terminada.
+- Endpoint `/health` funcionando correctamente.
+- Agregado export de invoices a CSV.
+- Mejorados tests iniciales con pytest.
+- Documentado el README con estructura y pasos de setup.
+- Configurado pre-commit (pendiente instalación en entorno).
